@@ -3,7 +3,7 @@
 
 -  **Sistemas de Informação™ Universidade Federal De Goiás (UFG)©**
 -  Desenvolvedor filiado a Level5 Empresa Júnior
--  Prática em **JavaScript/HTML5/CSS3/C**✔
+-  Prática em **JS/HTML5/CSS3/C/PYTHON**✔
 -  Contato: **bruno.miranda0910@gmail.com**
 
 
