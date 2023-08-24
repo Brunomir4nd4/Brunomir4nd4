@@ -2,6 +2,7 @@
 
 -  **Sistemas de Informação™ Universidade Federal De Goiás (UFG)©**
 -  Desenvolvedor filiado a **Level5 Empresa Júnior ✔**
+-  **❗OLHE MEU LINKEDIN**
   
 ### Domínio: 
 <div style="display: inline_block"><br>
