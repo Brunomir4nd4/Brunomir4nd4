@@ -1,5 +1,3 @@
-# Bruno Miranda Bento
-
 ## 🎓 Education & Professional Background
 <div align="left">
 
