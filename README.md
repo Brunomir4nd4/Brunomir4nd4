@@ -1,20 +1,39 @@
-## Bruno Miranda Bento
+# Bruno Miranda Bento
+### Software Developer | Software Engineer
 
--  **Sistemas de Informação™ Universidade Federal De Goiás (UFG)©**
--  Desenvolvedor filiado a **Invent Software ✔**
--  **❗OLHE MEU LINKEDIN**
-  
-### Domínio nas linguagens: 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-C#" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+## 🎓 Education & Professional Background
+<div align="left">
+
+- 🔹 **Bachelor's in Information Systems**  
+  <img src="https://img.shields.io/badge/-Federal%20University%20of%20Goiás-143D8F?style=flat&logo=graduation-cap&logoColor=white" alt="UFG">  
+  <small>202X - Present | Goiânia, Brazil</small>
+
+- 🔹 **Software Developer**  
+  <img src="https://img.shields.io/badge/-Invent%20Software-FF6B00?style=flat&logo=react&logoColor=white" alt="Invent Software">  
+  <small>Specializing in enterprise solutions</small>
 </div>
-  
 
-## Redes para contato:
-<a href = "mailto:bruno.miranda0910@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://www.linkedin.com/in/bruno-miranda-bento-121747266/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+## 🛠️ Technical Stack
+<div>
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
 
 
+## 🌐 Let's Connect
+<div>
 
+[![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno.miranda0910@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-miranda-bento-121747266/)
 
+</div>
+
+<div>
+  <img src="https://media3.giphy.com/media/AO5qaphTxRnyw/giphy.gif" width="400px" alt="Developer gif" />
+  <blockquote style="border-left: 3px solid #FF6B00; padding-left: 15px;">
+    <em>"A dream... It's something you do for yourself, not for others."</em>
+    <footer style="margin-top: 8px;">— Kentaro Miura (Berserk)</footer>
+  </blockquote>
+</div>
