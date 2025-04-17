@@ -1,5 +1,4 @@
 # Bruno Miranda Bento
-### Software Developer | Software Engineer
 
 ## 🎓 Education & Professional Background
 <div align="left">
