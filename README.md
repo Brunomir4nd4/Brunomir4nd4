@@ -7,7 +7,6 @@
 ### Domínio nas linguagens: 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-C#" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-C" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Rafa-js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
   
