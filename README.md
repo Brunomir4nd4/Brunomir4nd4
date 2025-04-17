@@ -31,7 +31,7 @@
 </div>
 
 <div>
-  <img src="https://media3.giphy.com/media/AO5qaphTxRnyw/giphy.gif" width="300px" alt="Developer gif" />
+  <img src="https://media3.giphy.com/media/AO5qaphTxRnyw/giphy.gif" width="300px" alt="bonfire gif" />
   <blockquote style="border-left: 3px solid #FF6B00; padding-left: 15px;">
     <em>"A dream... It's something you do for yourself, not for others."</em>
     <footer style="margin-top: 8px;">— Kentaro Miura (Berserk)</footer>
